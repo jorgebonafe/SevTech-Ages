@@ -13,5 +13,6 @@ criteria.setItem("appliedenergistics2:material")
 
 //Rewards
 setRewardExperience(12)
+setRewardFunction("triumph:preopencomputers_trigger")
 
 visibleIf("triumph:stage4/root")

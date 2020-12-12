@@ -32,6 +32,8 @@ static stageFiveMob as Stage = ZenStager.initStage("five_mob");
 
 // Unique Stages
 static stageBaykok as Stage = ZenStager.initStage("baykok");
+static stageOpenComputers as Stage = ZenStager.initStage("open_computers");
+static stagePreOpenComputers as Stage = ZenStager.initStage("pre_open_computers");
 static stageMapping as Stage = ZenStager.initStage("mapping");
 
 // Unique stage intended to disable existing items/etc

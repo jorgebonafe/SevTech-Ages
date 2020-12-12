@@ -1,0 +1,2 @@
+gamestage add @p open_computers
+say You have learned how to craft computers!

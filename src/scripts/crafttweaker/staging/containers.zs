@@ -20,6 +20,8 @@ import scripts.crafttweaker.stages.stageFour;
 import scripts.crafttweaker.stages.stageFive;
 import scripts.crafttweaker.stages.stageCreative;
 import scripts.crafttweaker.stages.stageBaykok;
+import scripts.crafttweaker.stages.stagePreOpenComputers;
+import scripts.crafttweaker.stages.stageOpenComputers;
 import scripts.crafttweaker.stages.stageMapping;
 
 // Contains all "useful" stages
@@ -36,6 +38,8 @@ static ALL_STAGES as Stage[] = [
 
 	// Unique stages
 	stageBaykok,
+	stagePreOpenComputers,
+	stageOpenComputers,
 	stageMapping
 ];
 

@@ -1,0 +1,18 @@
+setTranslatedTitle("advancements.stage4.openmanual.title")
+
+setIcon("opencomputers:tool", 4)
+
+setTranslatedDescription("advancements.stage4.openmanual.description")
+
+addParent("triumph:stage4/certusquartz")
+setRequiresParents()
+
+//Criteria
+criteria = addCriteria("hasRock", "minecraft:inventory_changed")
+criteria.setItem("opencomputers:tool", 4)
+
+//Rewards
+setRewardExperience(12)
+setRewardFunction("triumph:opencomputers_trigger")
+
+visibleIf("triumph:stage4/root")

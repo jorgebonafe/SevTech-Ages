@@ -136,6 +136,7 @@ function initItemsAndRecipesStaging() {
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.naturescompass.init();
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.nex.init();
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.oeintegration.init();
+	scripts.crafttweaker.staging.itemsAndRecipes.mods.opencomputers.init();
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.overloaded.init();
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.pickletweaks.init();
 	scripts.crafttweaker.staging.itemsAndRecipes.mods.pneumaticcraft.init();
@@ -240,6 +241,7 @@ function initRecipes() {
 	scripts.crafttweaker.recipes.mods.natura.init();
 	scripts.crafttweaker.recipes.mods.naturescompass.init();
 	scripts.crafttweaker.recipes.mods.oeintegration.init();
+	scripts.crafttweaker.recipes.mods.opencomputers.init();
 	scripts.crafttweaker.recipes.mods.overloaded.init();
 	scripts.crafttweaker.recipes.mods.pickletweaks.init();
 	scripts.crafttweaker.recipes.mods.pneumaticcraft.init();
