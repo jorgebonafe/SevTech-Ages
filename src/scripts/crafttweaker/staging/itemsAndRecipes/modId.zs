@@ -14,6 +14,7 @@ import scripts.crafttweaker.stages.stageTwo;
 import scripts.crafttweaker.stages.stageThree;
 import scripts.crafttweaker.stages.stageFour;
 import scripts.crafttweaker.stages.stageFive;
+import scripts.crafttweaker.stages.stageOpenComputers;
 
 static stagedMods as string[][string] = {
 	stageTwo.stage : [
@@ -47,6 +48,9 @@ static stagedMods as string[][string] = {
 		"rftools",
 		"rftoolscontrol",
 		"scannable"
+	],
+	stageOpenComputers.stage: [
+		"opencomputers"
 	]
 };
 

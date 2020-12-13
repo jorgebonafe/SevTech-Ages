@@ -16,6 +16,7 @@ src/config/buildcraft/detailed.properties
 src/journeymap/data/*
 src/journeymap/server/*
 src/journeymap/journeymap.log
+.history
 
 # Other
 src/config/topography/documentation/
